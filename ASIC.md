@@ -1,0 +1,1 @@
+ASIC全称： Application Specific Integrated Circuit   应用定制集成电路
